@@ -1,6 +1,6 @@
 Bonjour 
 
-J'ai avons travaillé avec le dataset KING COUNTY HOUSE PRICE disponible sur KAGGLE.
+J'ai  travaillé avec le dataset KING COUNTY HOUSE PRICE disponible sur KAGGLE.
 Notre Question de recherche est la prediction du prix d'une maison.
 
 
